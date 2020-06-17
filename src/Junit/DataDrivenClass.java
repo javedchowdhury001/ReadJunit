@@ -47,6 +47,7 @@ public class DataDrivenClass {
 		}catch(Exception e) {
 			System.out.println(e.getMessage());
 			System.out.println("github message");
+			System.out.println("github 2nd message");
 		}
 		}
 	
