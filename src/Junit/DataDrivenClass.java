@@ -46,6 +46,7 @@ public class DataDrivenClass {
 		System.out.println("Rows are :"+xlRows);
 		}catch(Exception e) {
 			System.out.println(e.getMessage());
+			System.out.println("github message");
 		}
 		}
 	
